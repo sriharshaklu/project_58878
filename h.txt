@@ -1,0 +1,6 @@
+software engineering tutorial
+github account creation
+gitbash installation
+deploy files
+project management
+requirements engineering process
